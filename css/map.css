@@ -1,0 +1,26 @@
+.main {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 30px;
+  width: 300px;
+  height: 100%;
+  z-index: 2;
+  background: #fff;
+  border: solid rgba(0,0,0,0.3);
+  border-width: 0 4px;
+  opacity: 0.8;
+  transition: opacity .25s ease-in-out;
+}
+.main:hover {
+  opacity: 1;
+}
+
+.map {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: 1;
+}
