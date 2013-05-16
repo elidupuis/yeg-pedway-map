@@ -24,3 +24,19 @@
   width: 100%;
   z-index: 1;
 }
+
+.marker.lrt-entrance {
+  background: rgba(255,0,0,0.6);
+  border: 2px solid rgba(255,0,0,0.8);
+  width: 20px;
+  height: 20px;
+  border-radius: 999px;
+}
+
+.marker.user {
+  background: rgba(0,0,255,0.6);
+  border: 2px solid rgba(0,0,255,0.8);
+  width: 10px;
+  height: 10px;
+  border-radius: 999px;
+}

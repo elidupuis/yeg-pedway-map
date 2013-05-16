@@ -1,0 +1,116 @@
+[
+  {
+    "lat": "53.5405937743",
+    "lng": "-113.4976929537",
+    "station_name": "Bay",
+    "description": "103 Street South"
+  },
+  {
+    "lat": "53.5411069402",
+    "lng": "-113.497461764",
+    "station_name": "Bay",
+    "description": "103 Street North"
+  },
+  {
+    "lat": "53.5409937296",
+    "lng": "-113.4992951222",
+    "station_name": "Bay",
+    "description": "104 Street North"
+  },
+  {
+    "lat": "53.540722",
+    "lng": "-113.4992951222",
+    "station_name": "Bay",
+    "description": "104 Street South"
+  },
+  {
+    "lat": "53.5405509508",
+    "lng": "-113.4937457087",
+    "station_name": "Central",
+    "description": "101 Street South"
+  },
+  {
+    "lat": "53.5411007659",
+    "lng": "-113.4922810942",
+    "station_name": "Central",
+    "description": "100A Street North"
+  },
+  {
+    "lat": "53.5411593057",
+    "lng": "-113.4914195039",
+    "station_name": "Central",
+    "description": "New Cambridge Lofts"
+  },
+  {
+    "lat": "53.5446471039",
+    "lng": "-113.4892871588",
+    "station_name": "Churchill",
+    "description": "102A Avenue and 99 Street"
+  },
+  {
+    "lat": "53.5434742045",
+    "lng": "-113.4901186874",
+    "station_name": "Churchill",
+    "description": "South end of Churchill Square"
+  },
+  {
+    "lat": "53.5429877731",
+    "lng": "-113.4881451928",
+    "station_name": "Churchill",
+    "description": "Winspear Box office"
+  },
+  {
+    "lat": "53.5406446464",
+    "lng": "-113.5045618666",
+    "station_name": "Corona",
+    "description": "107 Street South"
+  },
+  {
+    "lat": "53.5410767719",
+    "lng": "-113.5047577383",
+    "station_name": "Corona",
+    "description": "107 Street North"
+  },
+  {
+    "lat": "53.5410936258",
+    "lng": "-113.5058533745",
+    "station_name": "Corona",
+    "description": "Lock at 10pm"
+  },
+  {
+    "lat": "53.5410151425",
+    "lng": "-113.5063298649",
+    "station_name": "Corona",
+    "description": "Locked at 10pm. West end of platform is slightly east of this point."
+  },
+  {
+    "lat": "53.535885184",
+    "lng": "-113.5106334606",
+    "station_name": "Grandin",
+    "description": "98 Avenue North. Extra entrance around corner."
+  },
+  {
+    "lat": "53.535563987",
+    "lng": "-113.5101331114",
+    "station_name": "Grandin",
+    "description": "98 Avenue South"
+  },
+  {
+    "lat": "53.5354336857",
+    "lng": "-113.5087735336",
+    "station_name": "Grandin",
+    "description": "109 Street. Gov centre pedway."
+  },
+  {
+    "lat": "53.5366584715",
+    "lng": "-113.5103059573",
+    "station_name": "Grandin",
+    "description": "110 Street West"
+  },
+  {
+    "lat": "53.5367290701",
+    "lng": "-113.5103062061",
+    "station_name": "Grandin",
+    "description": "110 Street East"
+  }
+]

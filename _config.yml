@@ -1,1 +1,3 @@
 name: Edmonton Pedway Map
+relative_permalinks: false
+timezone: America/Edmonton
