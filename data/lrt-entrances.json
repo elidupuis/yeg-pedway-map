@@ -1,0 +1,213 @@
+{
+  "version": 0.6,
+  "generator": "Overpass API",
+  "osm3s": {
+    "timestamp_osm_base": "2013-05-27T05:18:04Z",
+    "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL."
+  },
+  "elements": [
+
+{
+  "type": "node",
+  "id": 1672447555,
+  "lat": 53.5412578,
+  "lon": -113.4972752,
+  "tags": {
+    "name": "LRT - Enterprise Square",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 1672453564,
+  "lat": 53.5406864,
+  "lon": -113.4975523,
+  "tags": {
+    "name": "LRT - Enterprise Square",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473394,
+  "lat": 53.5355007,
+  "lon": -113.5087783,
+  "tags": {
+    "name": "Grandin Station / Government Centre Pedway",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473395,
+  "lat": 53.5355788,
+  "lon": -113.5101235,
+  "tags": {
+    "name": "Grandin Station",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473396,
+  "lat": 53.5357984,
+  "lon": -113.5104581,
+  "tags": {
+    "name": "Grandin Station",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473397,
+  "lat": 53.5367381,
+  "lon": -113.5103494,
+  "tags": {
+    "name": "Grandin Station",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473398,
+  "lat": 53.5368246,
+  "lon": -113.5101483,
+  "tags": {
+    "name": "Grandin Station",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473399,
+  "lat": 53.5412307,
+  "lon": -113.5046401,
+  "tags": {
+    "name": "Corona",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473400,
+  "lat": 53.5406731,
+  "lon": -113.5045163,
+  "tags": {
+    "name": "Corona",
+    "railway": "subway_entrance",
+    "wheelchair": "yes"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473401,
+  "lat": 53.5410563,
+  "lon": -113.5055607,
+  "tags": {
+    "name": "Corona",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473402,
+  "lat": 53.5410494,
+  "lon": -113.5060332,
+  "tags": {
+    "name": "Corona",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473403,
+  "lat": 53.5406732,
+  "lon": -113.4990954,
+  "tags": {
+    "name": "Bay/Enterprise Square",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473404,
+  "lat": 53.5411799,
+  "lon": -113.4991083,
+  "tags": {
+    "name": "Bay/Enterprise Square",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473405,
+  "lat": 53.5406946,
+  "lon": -113.4972606,
+  "tags": {
+    "name": "Enterprise Square",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473406,
+  "lat": 53.5406398,
+  "lon": -113.4938358,
+  "tags": {
+    "name": "Central",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473407,
+  "lat": 53.5412783,
+  "lon": -113.4935314,
+  "tags": {
+    "name": "Central",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473408,
+  "lat": 53.5411887,
+  "lon": -113.4921122,
+  "tags": {
+    "name": "Central",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473409,
+  "lat": 53.5410558,
+  "lon": -113.4900055,
+  "tags": {
+    "name": "Central",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473410,
+  "lat": 53.5435162,
+  "lon": -113.4901582,
+  "tags": {
+    "name": "Churchill",
+    "railway": "subway_entrance"
+  }
+},
+{
+  "type": "node",
+  "id": 2315473411,
+  "lat": 53.5446963,
+  "lon": -113.4894109,
+  "tags": {
+    "name": "Churchill",
+    "railway": "subway_entrance"
+  }
+}
+
+  ]
+}
