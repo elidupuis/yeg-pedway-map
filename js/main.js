@@ -21,12 +21,13 @@
     lrt_entrance: L.divIcon({className: 'marker lrt-entrance'}),
     user: L.divIcon({className: 'marker user'})
   }
-  $.getJSON('data/data.json', function(data){
-    lrt_entrances = data
+  $.getJSON('data/lrt-entrances.json', function(data){
+    lrt_entrances = data.elements
     $.each(lrt_entrances, function(i, item) {
       console.log(item)
-      var marker = L.marker([item.lat, item.lng], { icon: icons.lrt_entrance }).addTo(map);
-      marker.bindPopup('<b>' + item.station_name + ' Station</b><br>' + item.description)
+      var tags = item.tags || {}
+      var marker = L.marker([item.lat, item.lon], { icon: icons.lrt_entrance }).addTo(map);
+      marker.bindPopup('<b>' + tags.name + '</b>')
       markers.push(marker)
     })
   })

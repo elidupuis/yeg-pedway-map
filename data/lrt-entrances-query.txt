@@ -1,0 +1,11 @@
+<!--
+This is an example Overpass query.
+Try it out by pressing the Run button above!
+You can find more examples with the Load tool.
+-->
+<query type="node">
+  <has-kv k="railway" v="subway_entrance"/>
+  <bbox-query s="53.53194166330259" w="-113.51263046264648" n="53.54897743828181" e="-113.48499298095703"/><!--this is auto-completed with the
+                   current map view coordinates.-->
+</query>
+<print/>
