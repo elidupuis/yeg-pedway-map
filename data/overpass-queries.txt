@@ -1,0 +1,30 @@
+<!--
+OSM Overpass API queries.
+These are the raw queries. They can be tested and exported at http://overpass-turbo.eu/
+We're exporting these as Compact OverpassQL so we can use `curl` to fetch them programatically. See the Makefile.
+-->
+
+<!--
+LRT Entrances
+-->
+<query type="node">
+  <has-kv k="railway" v="subway_entrance"/>
+  <bbox-query s="53.53194166330259" w="-113.51263046264648" n="53.54897743828181" e="-113.48499298095703"/>
+</query>
+<print/>
+
+
+
+<--
+underground pedway
+-->
+<query type="way">
+  <has-kv k="highway" v="footway"/>
+  <has-kv k="layer" v="-1"/>
+  <bbox-query s="53.53275790467149" w="-113.51245880126953" n="53.54683559190011" e="-113.48499298095703"/>
+</query>
+<union>
+  <item/>
+  <recurse type="down"/>
+</union>
+<print/>
