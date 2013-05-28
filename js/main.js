@@ -91,4 +91,11 @@
     }
   })
 
+
+  map.on('moveend', function(e){
+    var center = map.getCenter()
+    var zoom = map.getZoom()
+    $('.osm-edit').attr('href', 'http://openstreetmap.us/iD/release/#background=Bing&map=' + zoom + '/'+ center.lng +'/'+ center.lat)
+  })
+
 })()

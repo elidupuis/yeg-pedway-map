@@ -40,3 +40,15 @@
   height: 10px;
   border-radius: 999px;
 }
+
+.osm-edit {
+  background: white;
+  color: gray;
+  font-size: 11px;
+  padding: 0.25em;
+  text-decoration: none;
+  position: absolute;
+  bottom: 1em;
+  left: 1em;
+  z-index: 2;
+}

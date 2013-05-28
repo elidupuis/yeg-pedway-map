@@ -1,6 +1,6 @@
-# YEG Pedmap Map
+# Edmonton Wayfinding Project
 
-A map of the downtown pedway system in Edmonton, Alberta.
+A map to improve pedestrian wayfinding in downtown Edmonton, Alberta; starting with the [LRT pedway system](http://en.wikipedia.org/wiki/Edmonton_Pedway).
 
 ## Goals
 
